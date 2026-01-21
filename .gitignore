@@ -1,3 +1,4 @@
 /Database
 uv.lock
 .env
+.DS_Store
